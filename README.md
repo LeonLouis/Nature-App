@@ -1,2 +1,2 @@
 # Nature-App
-An Application that shows Nature Image
+ - An Application that shows Nature Image
